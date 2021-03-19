@@ -13,7 +13,7 @@ WS2812B + Wemos D1 mini Pro
 - wave (single color),
 - off,
 - color picker,
-- changing Wemos IP
+- change Wemos IP
 
 ## Arduino sketch
 
