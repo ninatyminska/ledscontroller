@@ -1,0 +1,34 @@
+{
+	"expo": {
+		"name": ".ledsController",
+		"slug": "leds",
+		"version": "1.0.3",
+		"orientation": "portrait",
+		"icon": "./assets/led-strip.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#8c41aa"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": [
+			"**/*"
+		],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"package": "com.ledsCotroller.ledsCotroller",
+			"versionCode": 4,
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/led-icon.png",
+				"backgroundColor": "#E4F03F"
+			}
+		},
+		"web": {
+			"favicon": "./assets/led-strip.png"
+		}
+	}
+}
